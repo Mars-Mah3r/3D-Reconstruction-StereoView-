@@ -55,5 +55,5 @@ img = cv.imread('/path/to/the/chessboard01.jpg')
 image_directory = ('/path/to/object/images')
 ```
 
-Then run the file: K19006035_SAP_CW.py.
+Then run the file: Final_execute.py.
 
